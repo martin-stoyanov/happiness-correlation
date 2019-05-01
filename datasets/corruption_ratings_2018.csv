@@ -1,4 +1,4 @@
-Country,ISO3,Region,CPI Score 2018,Rank ,Standard error,Number of sources,Upper CI,Lower CI ,African Development Bank CPIA,Bertelsmann Foundation Sustainable Governance Index,Bertelsmann Foundation Transformation Index,Economist Intelligence Unit Country Ratings,Freedom House Nations in Transit Ratings,Global Insight Country Risk Ratings,IMD World Competitiveness Yearbook,PERC Asia Risk Guide,PRS International Country Risk Guide,World Bank CPIA,World Economic Forum EOS,World Justice Project Rule of Law Index,Varieties of Democracy Project
+Country,ISO3,Region,Corruption_Score,Rank ,Standard error,Number of sources,Upper CI,Lower CI ,African Development Bank CPIA,Bertelsmann Foundation Sustainable Governance Index,Bertelsmann Foundation Transformation Index,Economist Intelligence Unit Country Ratings,Freedom House Nations in Transit Ratings,Global Insight Country Risk Ratings,IMD World Competitiveness Yearbook,PERC Asia Risk Guide,PRS International Country Risk Guide,World Bank CPIA,World Economic Forum EOS,World Justice Project Rule of Law Index,Varieties of Democracy Project
 Denmark,DNK,WE/EU,88,1,2.63,8,92,84,,97,,90,,83,97,,92,,79,88,78
 New Zealand,NZL,AP,87,2,2.44,8,91,83,,97,,90,,83,92,,93,,83,82,77
 Finland,FIN,WE/EU,85,3,2.74,8,89,81,,88,,72,,83,93,,93,,90,86,76
@@ -30,7 +30,7 @@ Seychelles,SYC,SSA,66,28,3.08,4,71,61,,,,72,,71,,,,,60,,62
 Bahamas,BHS,AME,65,29,5.39,3,74,56,,,,,,59,,,76,,,61,
 Portugal,PRT,WE/EU,64,30,2.14,8,68,60,,70,,55,,59,61,,67,,60,70,70
 Brunei Darussalam,BRN,AP,63,31,6.62,3,74,52,,,,,,71,,,50,,68,,
-"Taiwan",TWN,AP,63,31,3.06,8,68,58,,,77,55,,71,66,51,59,,65,,58
+Taiwan,TWN,AP,63,31,3.06,8,68,58,,,77,55,,71,66,51,59,,65,,58
 Qatar,QAT,MENA,62,33,8.08,7,75,49,,,41,72,,47,84,,59,,92,,38
 Botswana,BWA,SSA,61,34,2.76,7,66,56,,,61,72,,59,,,59,,52,55,69
 Israel,ISR,MENA,61,34,1.49,7,63,59,,62,,55,,59,62,,59,,64,,67
